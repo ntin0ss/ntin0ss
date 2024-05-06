@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ntin0ss
 - 👀 I’m interested in 
-- 🌱 I’m currently learning javascript,python and c
+- 🌱 I’m currently learning html,javascript,python and c
 - 📫 How to reach me: idk if you can lil bro
 - ⚡ Fun fact: i love cycling 
 
